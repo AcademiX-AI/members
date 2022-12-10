@@ -4,5 +4,5 @@
 * [長谷川林太郎](HasegawaRintaro.md)
 * [小林般](KobayashiMeguru.md)
 * [大熊拓海](OhkumaTakumi.md)
-* [OnoderaRen](OnoderaRen.md)
+* [小野寺蓮](OnoderaRen.md)
 * [AcademiXメンバー](<README (1).md>)
